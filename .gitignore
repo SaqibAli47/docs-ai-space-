@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+venv/
+levelhomechart/
+terraform_eks/
+env.bak
+uploads/*
+!uploads/txt.txt
